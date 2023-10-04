@@ -1,0 +1,19 @@
+/* Style for the Home heading */
+#home-heading {
+  font-size: 24px;
+  color: #333;
+}
+
+/* Style for the Place Order button */
+#place-order-button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+/* Hover effect for the button */
+#place-order-button:hover {
+  background-color: #0056b3;
+}
