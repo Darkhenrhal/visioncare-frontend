@@ -43,6 +43,8 @@ const AddCustomer = () => {
           channelling: '',
           surgery: '',
         });
+
+        window.location.href = '/place-order';
       } else {
         console.error('Error adding customer:', response.data);
       }
